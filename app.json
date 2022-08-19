@@ -1,0 +1,36 @@
+{
+  "expo": {
+    "name": "COVID 19 APP",
+    "slug": "covid-19-app",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "cover",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": { 
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*" 
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+
+    "android": {
+      "package": "com.arayik_tshagharyan.covid19app",
+      "versionCode": 1
+     
+}
+    
+  }
+}
+   
